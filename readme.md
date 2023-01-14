@@ -69,7 +69,7 @@
   <img src="https://indiaspora.org/wp-content/uploads/2021/04/give-India-logo.png" alt="Give india logo" width="200" />
 </a>
 
-Are you considering supporting the project by donating? Please DO NOT!!
+Are you considering  supporting the project by donating? Please DO NOT!!
 
 Instead, Help India fight the second deadly wave of COVID-19.
 Thousands of people are dying in India because of a lack of Oxygen & also COVID-related infrastructure.
